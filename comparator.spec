@@ -2,13 +2,14 @@ Summary:	Tools for fast comparasion of large source-code trees
 Summary(pl):	Narzêdzia do szybkiego porównania drzew kodu ¼ród³owego
 Name:		comparator
 Version:	2.5
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Tools
 Source0:	http://www.catb.org/~esr/comparator/%{name}-%{version}.tar.gz
 # Source0-md5:	0cfeb9300a9a1b76f66187164cfcc359
 URL:		http://www.catb.org/~esr/comparator/
 BuildRequires:	rpm-pythonprov
+%pyrequires_eq	python-libs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
