@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.python
 Summary:	Tools for fast comparasion of large source-code trees
 Summary(pl):	Narzêdzia do szybkiego porównania drzew kodu ¼ród³owego
 Name:		comparator
