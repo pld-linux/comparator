@@ -26,6 +26,7 @@ byæ u¿ytecznymi narzêdziami do wykrywania naruszeñ praw autorskich.
 
 %build
 %{__make} \
+	CC="%{__cc}" \
 	CFLAGS="%{rpmcflags}"
 
 %install
