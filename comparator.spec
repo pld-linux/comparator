@@ -1,5 +1,5 @@
 Summary:	Tools for fast comparasion of large source-code trees
-Summary(pl):	Narzêdzia do szybkiego porównania drzew kodu ¼ród³owego
+Summary(pl.UTF-8):   NarzÄ™dzia do szybkiego porÃ³wnania drzew kodu ÅºrÃ³dÅ‚owego
 Name:		comparator
 Version:	2.5
 Release:	2
@@ -16,10 +16,10 @@ Comparator and filterator are a pair of tools for rapidly finding
 common code segments in large source trees. They can be useful as
 tools for detecting copyright infringement.
 
-%description -l pl
-Comparator i filterator s± par± narzêdzi do szybkiego znajdywania
-wspólnych segmentów kodu w du¿ych drzewach kodu ¼ród³owego. Mog± one
-byæ u¿ytecznymi narzêdziami do wykrywania naruszeñ praw autorskich.
+%description -l pl.UTF-8
+Comparator i filterator sÄ… parÄ… narzÄ™dzi do szybkiego znajdywania
+wspÃ³lnych segmentÃ³w kodu w duÅ¼ych drzewach kodu ÅºrÃ³dÅ‚owego. MogÄ… one
+byÄ‡ uÅ¼ytecznymi narzÄ™dziami do wykrywania naruszeÅ„ praw autorskich.
 
 %prep
 %setup -q
