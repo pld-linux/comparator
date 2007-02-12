@@ -1,5 +1,5 @@
 Summary:	Tools for fast comparasion of large source-code trees
-Summary(pl.UTF-8):   Narzędzia do szybkiego porównania drzew kodu źródłowego
+Summary(pl.UTF-8):	Narzędzia do szybkiego porównania drzew kodu źródłowego
 Name:		comparator
 Version:	2.5
 Release:	2
